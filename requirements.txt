@@ -1,0 +1,6 @@
+customtkinter
+insightface
+numpy
+onnxruntime
+opencv-python
+pillow
