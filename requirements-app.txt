@@ -1,0 +1,12 @@
+customtkinter==5.2.2
+darkdetect==0.8.0
+easydict==1.13
+insightface==0.7.3
+numpy==2.4.3
+onnx==1.21.0
+onnxruntime-directml==1.24.4
+opencv-python==4.13.0.92
+pillow==12.1.1
+prettytable==3.17.0
+requests==2.33.0
+tqdm==4.67.3
