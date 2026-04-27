@@ -8,16 +8,7 @@ dataset1/
 dataset2/
 dataset3/
 
-data/anti_spoof_models/
-data/anti_spoof_frames/
-data/anti_spoof_frames_smoke/
 data/face_vectors.npy
 data/logs/*.csv
-data/anti_spoof_frame_manifest.csv
-data/anti_spoof_frame_manifest_smoke.csv
-data/anti_spoof_frame_summary.json
-data/anti_spoof_frame_summary_smoke.json
-data/anti_spoof_video_manifest.csv
-data/anti_spoof_video_summary.json
 
 debug_cam_frame.jpg

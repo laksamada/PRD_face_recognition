@@ -8,6 +8,7 @@ if not exist ".venv\Scripts\python.exe" (
 call ".venv\Scripts\activate.bat"
 python -m pip install --upgrade pip
 python -m pip install -r requirements-app.txt
+python -c "from modules.face_engine import get_engine; get_engine(); print('InsightFace model siap.')"
 
 echo.
 echo Environment app siap.
